@@ -8,51 +8,59 @@ categories: Delicious
 [Pending - Waiting for correct tags to be assigned ](https://delicious.com/usman.ahmed/Pending)
 Tags - Pending
 
-[Exploring Interesting Software - Priority ](https://delicious.com/usman.ahmed/Hackathon,Priority)
-Tags - Hackathon + Priority
+- - -
+#### Hackathon 
 
-[Exploring Interesting Software - New](https://delicious.com/usman.ahmed/Hackathon,New)
-Tags - Hackathon + New
+Explore Interesting Software
 
-[Exploring Interesting Software - Archive](https://delicious.com/usman.ahmed/Hackathon,Archive)
-Tags - Hackathon + Archive
+[Priority](https://delicious.com/usman.ahmed/Hackathon,Priority) - Hackathon + Priority
+
+[New](https://delicious.com/usman.ahmed/Hackathon,New) - Hackathon + New
+
+[Archived](https://delicious.com/usman.ahmed/Hackathon,Archive) - Hackathon + Archive
 
 - - -
 
-[Technical Reading List - New](https://delicious.com/usman.ahmed/Reading,Technical,New)
-Tags - Reading + Technical + New
+#### Reading
 
-[Technical Reading List - On going](https://delicious.com/usman.ahmed/Reading,Technical,Ongoing)
-Tags - Reading + Technical + Ongoing
+Technical Reading List
 
-[Technical Reading List - Priority](https://delicious.com/usman.ahmed/Reading,Technical,Priority)
-Tags - Reading + Technical + Priority
+[Priority](https://delicious.com/usman.ahmed/Reading,Technical,Priority) - Reading + Technical + Priority
 
-[Reading List - Archive](https://delicious.com/usman.ahmed/Reading,Technical,Archive)
-Tags - Reading + Technical + Archive
+[New](https://delicious.com/usman.ahmed/Reading,Technical,New) - Reading + Technical + New
 
-- - -
+[On going](https://delicious.com/usman.ahmed/Reading,Technical,Ongoing) - Reading + Technical + Ongoing
 
-[Screencast websites](https://delicious.com/usman.ahmed/Screencasts)
-Tags - Screencasts
+[Archive](https://delicious.com/usman.ahmed/Reading,Technical,Archive) - Reading + Technical + Archive
 
 - - -
 
-[Technical Books](https://delicious.com/usman.ahmed/Books,Technical)
-Tags - Books + Technical
+#### Screencasts
+
+
+[Screencasts](https://delicious.com/usman.ahmed/Screencasts) - Screencasts
 
 - - -
 
-[Stay Happy](https://delicious.com/usman.ahmed/Reading,Happiness)
-Tags - Reading + Happiness
+#### Books
+
+[Technical Books](https://delicious.com/usman.ahmed/Books,Technical) - Books + Technical
 
 - - -
 
-[Mortgage Loans Available](https://delicious.com/usman.ahmed/Property,Mortgage)
-Tags - Property + Mortgage
+#### Happines
+
+[Stay Happy](https://delicious.com/usman.ahmed/Reading,Happiness) - Reading + Happiness
 
 - - -
+
+#### Mortgage
+
+[Mortgage Loans Available](https://delicious.com/usman.ahmed/Property,Mortgage) - Property + Mortgage
+
+- - -
+
+#### Housing
 
 [Housing Schemes](https://delicious.com/usman.ahmed/Property,Sites)
 Tags - Property + Sites
-
